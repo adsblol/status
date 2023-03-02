@@ -4,18 +4,20 @@
     "url": "https://adsb.lol",
     "icon": "https://icons.duckduckgo.com/ip3/adsb.lol.ico",
     "slug": "adsb-lol",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 600,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 477,
+    "timeDay": 477,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   },
   {
     "name": "globe.adsb.lol",
@@ -40,18 +42,20 @@
     "url": "https://api.adsb.lol/metrics",
     "icon": "https://icons.duckduckgo.com/ip3/api.adsb.lol.ico",
     "slug": "api-adsb-lol",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 642,
-    "timeWeek": 642,
-    "timeMonth": 642,
-    "timeYear": 642,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 547,
+    "timeDay": 547,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   },
   {
     "name": "feed.adsb.lol:1337",
@@ -166,17 +170,19 @@
     "url": "https://api.adsb.lol/api/0/me",
     "icon": "https://icons.duckduckgo.com/ip3/api.adsb.lol.ico",
     "slug": "api-adsb-lol-api-0-me",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 147,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   }
 ]

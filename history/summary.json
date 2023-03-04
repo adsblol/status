@@ -4,19 +4,19 @@
     "url": "https://adsb.lol",
     "icon": "https://icons.duckduckgo.com/ip3/adsb.lol.ico",
     "slug": "adsb-lol",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 510,
-    "timeDay": 451,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 516,
+    "timeDay": 485,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 17
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/globe.adsb.lol.ico",
     "slug": "globe-adsb-lol",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.60%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 544,
     "timeDay": 517,
     "timeWeek": 544,
     "timeMonth": 544,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 17
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.adsb.lol/metrics",
     "icon": "https://icons.duckduckgo.com/ip3/api.adsb.lol.ico",
     "slug": "api-adsb-lol",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 610,
-    "timeDay": 455,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 596,
+    "timeDay": 476,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 17
     }
   },
   {
@@ -154,19 +154,19 @@
     "url": "https://grafana.adsb.lol",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.adsb.lol.ico",
     "slug": "grafana-adsb-lol",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 606,
-    "timeWeek": 664,
-    "timeMonth": 664,
-    "timeYear": 664,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 696,
+    "timeDay": 680,
+    "timeWeek": 696,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 17
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://api.adsb.lol/api/0/me",
     "icon": "https://icons.duckduckgo.com/ip3/api.adsb.lol.ico",
     "slug": "api-adsb-lol-api-0-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 258,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 529,
+    "timeDay": 231,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2023-03-04": 0
+      "2023-03-04": 17
     }
   }
 ]

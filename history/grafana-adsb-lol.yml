@@ -1,7 +1,7 @@
 url: https://grafana.adsb.lol
-status: up
-code: 200
-responseTime: 757
-lastUpdated: 2023-03-22T23:06:15.693Z
+status: down
+code: 525
+responseTime: 292
+lastUpdated: 2023-03-23T19:35:47.717Z
 startTime: Wed Mar 01 2023 23:14:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

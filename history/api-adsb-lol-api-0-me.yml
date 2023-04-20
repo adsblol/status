@@ -1,7 +1,7 @@
 url: https://api.adsb.lol/api/0/me
-status: down
-code: 503
-responseTime: 104
-lastUpdated: 2023-04-20T10:50:35.311Z
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2023-04-20T11:06:59.542Z
 startTime: Wed Mar 01 2023 23:14:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -6,8 +6,12 @@ sites:
   url: https://adsb.lol
 - name: globe.adsb.lol
   url: https://globe.adsb.lol
+- name: mapproxy.adsb.lol
+  url: https://mapproxy.adsb.lol/tiles/openaip/openaip_grid/12/2101/1346.png
 - name: api.adsb.lol
   url: https://api.adsb.lol/metrics
+  headers:
+    - "User-Agent: ADSB.lol Status Page"
 - name: feed.adsb.lol:1337
   url: feed.adsb.lol
   check: tcp-ping
@@ -28,10 +32,6 @@ sites:
   url: feed.adsb.lol
   check: tcp-ping
   port: 31090
-- name: grafana.adsb.lol
-  url: https://grafana.adsb.lol
-- name: api.adsb.lol/api/0/me
-  url: https://api.adsb.lol/api/0/me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

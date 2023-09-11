@@ -32,6 +32,14 @@ sites:
   url: feed.adsb.lol
   check: tcp-ping
   port: 31090
+- name: adsb.im
+  url: https://adsb.im
+  assignees:
+    - dirkhh 
+- name: my.adsb.im
+  url: https://my.adsb.im
+  assignees:
+    - dirkhh 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

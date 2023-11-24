@@ -1,7 +1,7 @@
 url: feed.adsb.lol
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-24T14:07:29.094Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2023-11-24T14:30:41.012Z
 startTime: 2023-03-01T23:14:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>

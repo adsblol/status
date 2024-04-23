@@ -241,19 +241,19 @@
     "url": "https://adsb.im",
     "icon": "https://icons.duckduckgo.com/ip3/adsb.im.ico",
     "slug": "adsb-im",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 490,
-    "timeDay": 432,
-    "timeWeek": 597,
-    "timeMonth": 469,
+    "timeDay": 473,
+    "timeWeek": 592,
+    "timeMonth": 471,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 19
     }
   },
   {
@@ -261,19 +261,19 @@
     "url": "https://my.adsb.im",
     "icon": "https://icons.duckduckgo.com/ip3/my.adsb.im.ico",
     "slug": "my-adsb-im",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 396,
-    "timeDay": 470,
-    "timeWeek": 386,
-    "timeMonth": 397,
+    "timeDay": 465,
+    "timeWeek": 393,
+    "timeMonth": 399,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 19
     }
   }
 ]

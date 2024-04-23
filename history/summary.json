@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.adsb.lol.ico",
     "slug": "api-adsb-lol",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "94.08%",
+    "uptimeYear": "94.20%",
     "time": 572,
     "timeDay": 322,
     "timeWeek": 495,
@@ -241,35 +241,39 @@
     "url": "https://adsb.im",
     "icon": "https://icons.duckduckgo.com/ip3/adsb.im.ico",
     "slug": "adsb-im",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 452,
-    "timeWeek": 624,
-    "timeMonth": 471,
+    "timeDay": 432,
+    "timeWeek": 597,
+    "timeMonth": 469,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   },
   {
     "name": "my.adsb.im",
     "url": "https://my.adsb.im",
     "icon": "https://icons.duckduckgo.com/ip3/my.adsb.im.ico",
     "slug": "my-adsb-im",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 478,
-    "timeWeek": 375,
-    "timeMonth": 395,
-    "timeYear": 395,
-    "dailyMinutesDown": {}
+    "time": 396,
+    "timeDay": 470,
+    "timeWeek": 386,
+    "timeMonth": 397,
+    "timeYear": 396,
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]

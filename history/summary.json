@@ -56,19 +56,19 @@
     "url": "https://mapproxy.adsb.lol/tiles/openaip/openaip_grid/12/2101/1346.png",
     "icon": "https://icons.duckduckgo.com/ip3/mapproxy.adsb.lol.ico",
     "slug": "mapproxy-adsb-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 386,
-    "timeWeek": 253,
-    "timeMonth": 156,
-    "timeYear": 138,
+    "time": 142,
+    "timeDay": 451,
+    "timeWeek": 296,
+    "timeMonth": 174,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-05-10": 12
+      "2024-05-10": 0
     }
   },
   {

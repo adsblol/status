@@ -58,18 +58,16 @@
     "slug": "mapproxy-adsb-lol",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 370,
     "timeWeek": 281,
     "timeMonth": 182,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2024-05-10": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.adsb.lol",

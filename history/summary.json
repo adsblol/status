@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 576,
-    "timeDay": 865,
-    "timeWeek": 672,
-    "timeMonth": 617,
-    "timeYear": 566,
+    "timeDay": 701,
+    "timeWeek": 712,
+    "timeMonth": 624,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2024-04-06": 42,
       "2024-04-03": 111,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 684,
-    "timeDay": 747,
-    "timeWeek": 842,
-    "timeMonth": 709,
+    "timeDay": 852,
+    "timeWeek": 871,
+    "timeMonth": 720,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2024-04-06": 41,
@@ -63,10 +63,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 54,
-    "timeWeek": 192,
-    "timeMonth": 203,
-    "timeYear": 140,
+    "timeDay": 192,
+    "timeWeek": 172,
+    "timeMonth": 204,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -75,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.adsb.lol.ico",
     "slug": "api-adsb-lol",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.48%",
     "time": 569,
-    "timeDay": 551,
-    "timeWeek": 501,
-    "timeMonth": 523,
+    "timeDay": 373,
+    "timeWeek": 482,
+    "timeMonth": 524,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2024-04-06": 41,
@@ -101,8 +101,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 217
+      "2023-05-29": 1440
     }
   },
   {
@@ -237,8 +236,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 480,
-    "timeDay": 506,
-    "timeWeek": 428,
+    "timeDay": 482,
+    "timeWeek": 418,
     "timeMonth": 420,
     "timeYear": 480,
     "dailyMinutesDown": {
@@ -256,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 393,
-    "timeDay": 519,
-    "timeWeek": 433,
+    "time": 394,
+    "timeDay": 536,
+    "timeWeek": 441,
     "timeMonth": 375,
-    "timeYear": 393,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2024-04-23": 19
     }

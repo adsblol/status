@@ -218,10 +218,10 @@
     "url": "https://adsb.im",
     "icon": "https://icons.duckduckgo.com/ip3/adsb.im.ico",
     "slug": "adsb-im",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 469,
@@ -230,6 +230,7 @@
     "timeMonth": 371,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2024-06-19": 1,
       "2024-06-17": 65,
       "2024-04-23": 19
     }
@@ -239,10 +240,10 @@
     "url": "https://my.adsb.im",
     "icon": "https://icons.duckduckgo.com/ip3/my.adsb.im.ico",
     "slug": "my-adsb-im",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 389,
@@ -251,6 +252,7 @@
     "timeMonth": 370,
     "timeYear": 389,
     "dailyMinutesDown": {
+      "2024-06-19": 0,
       "2024-06-17": 65,
       "2024-04-23": 19
     }

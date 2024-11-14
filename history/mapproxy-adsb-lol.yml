@@ -1,7 +1,7 @@
 url: https://mapproxy.adsb.lol/tiles/openaip/openaip_grid/12/2101/1346.png
-status: down
-code: 500
-responseTime: 730
-lastUpdated: 2024-11-14T15:40:38.973Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2024-11-14T15:52:21.734Z
 startTime: 2023-05-05T10:16:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>

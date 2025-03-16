@@ -96,11 +96,11 @@
     "url": "feed.adsb.lol",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "feed-adsb-lol-1337",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 118,
     "timeDay": 162,
@@ -108,7 +108,7 @@
     "timeMonth": 122,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-03-16": 13,
+      "2025-03-16": 0,
       "2024-04-06": 41,
       "2024-04-03": 44
     }
@@ -120,9 +120,9 @@
     "slug": "feed-adsb-lol-1338",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 118,
     "timeDay": 162,
@@ -130,7 +130,6 @@
     "timeMonth": 122,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-03-16": 11,
       "2024-04-06": 41,
       "2024-04-03": 60
     }

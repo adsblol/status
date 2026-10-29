@@ -4,10 +4,8 @@ user-agent: ADSB.lol Status Page
 sites:
 - name: adsb.lol
   url: https://adsb.lol
-- name: globe.adsb.lol
-  url: https://globe.adsb.lol
-- name: mapproxy.adsb.lol
-  url: https://mapproxy.adsb.lol/tiles/openaip/openaip_grid/12/2101/1346.png
+- name: www.adsb.lol
+  url: https://www.adsb.lol
 - name: api.adsb.lol
   url: https://api.adsb.lol/metrics
   headers:
@@ -32,6 +30,18 @@ sites:
   url: feed.adsb.lol
   check: tcp-ping
   port: 31090
+- name: feed-acars.adsb.lol:5550
+  url: feed-acars.adsb.lol
+  check: tcp-ping
+  port: 5550
+- name: feed-acars.adsb.lol:5551
+  url: feed-acars.adsb.lol
+  check: tcp-ping
+  port: 5551
+- name: feed-acars.adsb.lol:5552
+  url: feed-acars.adsb.lol
+  check: tcp-ping
+  port: 5552
 - name: adsb.im
   url: https://adsb.im
   assignees:

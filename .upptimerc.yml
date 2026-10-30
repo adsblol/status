@@ -4,6 +4,9 @@ user-agent: ADSB.lol Status Page
 sites:
 - name: adsb.lol
   url: https://adsb.lol
+  expectedStatusCodes:
+      - 200
+      - 403
 - name: www.adsb.lol
   url: https://www.adsb.lol
 - name: api.adsb.lol

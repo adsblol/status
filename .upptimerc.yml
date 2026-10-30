@@ -5,14 +5,32 @@ sites:
 - name: adsb.lol
   url: https://adsb.lol
   expectedStatusCodes:
-      - 200
-      - 403
+  - 200
+  - 403
 - name: www.adsb.lol
-  url: https://www.adsb.lol
+  url: https://www.adsb.lol/readyz
+  __dangerous__body_down_if_text_missing: "ok"
 - name: api.adsb.lol
   url: https://api.adsb.lol/metrics
   headers:
-    - "User-Agent: ADSB.lol Status Page"
+  - "User-Agent: ADSB.lol Status Page"
+  __dangerous__body_down_if_regex_missing: 'adsb_api_beast_total_receivers [1-9]'
+- name: api.adsb.lol data
+  url: https://api.adsb.lol/v2/point/52.5/13.4/25
+  __dangerous__body_down_if_text_missing: '"ac":['
+- name: re-api.adsb.lol
+  url: https://re-api.adsb.lol/
+  expectedStatusCodes:
+  - 401
+- name: ip4.adsb.lol
+  url: https://ip4.adsb.lol/api/0/ip
+  __dangerous__body_down_if_text_missing: '"family":"4"'
+- name: ip6.adsb.lol
+  url: https://ip6.adsb.lol/api/0/ip
+  type: globalping
+  location: italy
+  ipv6: true
+  __dangerous__body_down_if_text_missing: '"family":"6"'
 - name: feed.adsb.lol:1337
   url: feed.adsb.lol
   check: tcp-ping
@@ -52,8 +70,16 @@ sites:
 - name: my.adsb.im
   url: https://my.adsb.im
   assignees:
-    - dirkhh 
-
+  - dirkhh 
+- name: registry.adsb.lol
+  url: https://registry.adsb.lol/v2/
+  expectedStatusCodes:
+    - 200
+    - 401
+- name: TLS *.adsb.lol
+  url: adsb.lol
+  check: ssl
+  port: 443
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -1,7 +1,7 @@
 url: https://api.adsb.lol/v2/point/52.5/13.4/25
-status: down
-code: 403
-responseTime: 283
-lastUpdated: 2026-11-02T02:07:34.006Z
+status: up
+code: 200
+responseTime: 421
+lastUpdated: 2026-11-02T02:48:38.121Z
 startTime: 2026-10-30T00:45:29.211Z
 generator: Upptime <https://github.com/upptime/upptime>

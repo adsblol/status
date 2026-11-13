@@ -1,7 +1,7 @@
 url: https://api.adsb.lol/metrics
-status: up
-code: 200
-responseTime: 1208
-lastUpdated: 2026-11-13T12:09:31.294Z
+status: down
+code: 503
+responseTime: 456
+lastUpdated: 2026-11-13T19:40:01.583Z
 startTime: 2023-03-01T23:14:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>

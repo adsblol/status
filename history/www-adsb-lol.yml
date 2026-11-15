@@ -1,7 +1,7 @@
 url: https://www.adsb.lol/readyz
-status: up
-code: 200
-responseTime: 421
-lastUpdated: 2026-11-15T02:24:42.666Z
+status: down
+code: 503
+responseTime: 416
+lastUpdated: 2026-11-15T16:38:27.966Z
 startTime: 2026-10-29T23:37:00.499Z
 generator: Upptime <https://github.com/upptime/upptime>

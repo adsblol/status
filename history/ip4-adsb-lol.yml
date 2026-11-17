@@ -1,7 +1,7 @@
 url: https://ip4.adsb.lol/api/0/ip
-status: up
-code: 200
-responseTime: 19721
-lastUpdated: 2026-11-17T05:03:52.717Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-11-17T09:54:42.083Z
 startTime: 2026-10-30T00:45:31.068Z
 generator: Upptime <https://github.com/upptime/upptime>
